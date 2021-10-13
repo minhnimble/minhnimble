@@ -1,4 +1,4 @@
-### Hi there, welcome to minhnimble's Github profile 👋
+### Hi there, welcome to minhnimble's Github profile 👋 Check out my stats ℹ️
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=minhnimble&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
