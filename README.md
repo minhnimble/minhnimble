@@ -1,9 +1,8 @@
 ### Hi there, welcome to minhnimble's Github profile 👋 Check out my stats ℹ️
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=minhnimble&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=minhnimble&show_icons=true&theme=merko)](https://github.com/minhnimble)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhnimble&theme=merko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=minhnimble&theme=merko&layout=compact)](https://github.com/minhnimble)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=minhnimble&theme=merko)](https://git.io/streak-stats)
 
