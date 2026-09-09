@@ -20,10 +20,6 @@ Software engineer at Nimble, based in Ho Chi Minh City, Vietnam.
 
 [![Trophies](https://github-trophies.vercel.app/?username=minhnimble&theme=algolia&no-frame=true&row=1&column=7)](https://github.com/minhnimble)
 
-## Streaks
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=minhnimble&theme=merko)](https://git.io/streak-stats)
-
 <!--
 **minhnimble/minhnimble** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
