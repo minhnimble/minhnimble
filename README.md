@@ -1,8 +1,26 @@
-### Hi there, welcome to minhnimble's Github profile 👋 Check out my stats ℹ️
+### Hi there, I'm Minh 👋
 
-[![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=minhnimble&show_icons=true&theme=merko)](https://github.com/minhnimble)
+Software engineer at Nimble, based in Ho Chi Minh City, Vietnam.
 
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=minhnimble&theme=merko&layout=compact)](https://github.com/minhnimble)
+[![GitHub followers](https://img.shields.io/github/followers/minhnimble?label=Follow&style=social)](https://github.com/minhnimble)
+![Profile views](https://komarev.com/ghpvc/?username=minhnimble&color=blue&style=flat)
+
+## GitHub Stats
+
+[![Stats](https://github-readme-stats.vercel.app/api?username=minhnimble&show_icons=true&count_private=true&theme=merko)](https://github.com/minhnimble)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhnimble&theme=merko&layout=compact)](https://github.com/minhnimble)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=minhnimble&theme=merko)](https://github.com/minhnimble)
+
+## Activity Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=minhnimble&theme=react-dark&hide_border=true)](https://github.com/minhnimble)
+
+## Trophies
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=minhnimble&theme=algolia&no-frame=true&row=1&column=7)](https://github.com/minhnimble)
+
+## Streaks
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=minhnimble&theme=merko)](https://git.io/streak-stats)
 
